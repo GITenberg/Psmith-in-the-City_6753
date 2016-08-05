@@ -1,0 +1,38 @@
+_repo: Psmith-in-the-City_6753
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wodehouse, P. G. (Pelham Grenville)
+    aliases:
+    - Windham, Basil
+    - Wodehouse, Pelham Grenville
+    birthdate: 1881
+    deathdate: 1975
+    gutenberg_agent_id: '783'
+    url: http://www.gutenberg.org/2009/agents/783
+    wikipedia: http://en.wikipedia.org/wiki/P._G._Wodehouse
+description: "Psmith in the City is a novel by P. G. Wodehouse, first published on\
+  \ 23 September 1910 by Adam & Charles Black, London. The story was originally released\
+  \ as a serial in The Captain magazine, between October 1908 and March 1909, under\
+  \ the title The New Fold.\nIt continues the adventures of cricket-loving Mike Jackson\
+  \ and his immaculately-dressed friend Psmith, first encountered in Mike (1909).\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6753'
+  wikidata: Q7256099
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Humorous stories'
+- !lcc 'PR'
+- GITenberg
+title: Psmith in the City
+url: http://www.gutenberg.org/ebooks/6753
+wikipedia:
+- https://en.wikipedia.org/wiki/Psmith_in_the_City
